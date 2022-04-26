@@ -27,5 +27,7 @@ for (let i = 1; i <= 1000; i++) {
 
 // let array = [1,5,7,9,11,13,15,23,25,28,31,35,36,40,41,46,49,50,53,60]
 
-console.log(binarySearch(array, 0, array.length - 1, 200));
+// console.log(binarySearch(array, 0, array.length - 1, 200));
+
+console.log(binarySearch(array, 0, array.length - 1, 10000));
 
